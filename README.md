@@ -1,2 +1,7 @@
-# Quintuple-Stimulus-Voucher-TVBS-voter
+# TVBS振興五倍券的自動投票工具
 自動填寫表單for： https://www.surveycake.com/s/2xOyK
+
+注意！！！
+本投票工具將自動選取選項依序為：
+現金、實領 6,000元或以上、新北市、40-49歲、男性
+可自行更換Xpath以符合您的需求。
